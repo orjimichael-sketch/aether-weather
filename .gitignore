@@ -29,5 +29,8 @@ coverage
 .env.*
 !.env.example
 
+# Vercel
+.vercel
+
 # Freebuff workspace metadata (local tooling)
 .freebuff/
